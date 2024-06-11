@@ -1,4 +1,4 @@
 # Discord-BoostTool
 
-No tocken required!!!
+No token required!!!
 Insert invite in config.json
